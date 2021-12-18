@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02776b6d-5397-4ed5-aadc-2684191d7824" name="Changes" comment="telegramBotMaker added first blocks, styles and broken down into components">
-      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Questions.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="02776b6d-5397-4ed5-aadc-2684191d7824" name="Changes" comment="telegramBotMaker added first blocks, styles and broken down into components" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +44,7 @@
       <updated>1639569546940</updated>
       <workItem from="1639569548493" duration="9852000" />
       <workItem from="1639763220661" duration="897000" />
-      <workItem from="1639850856036" duration="3165000" />
+      <workItem from="1639850856036" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="telegramBotMaker start">
       <created>1639569808804</created>
@@ -59,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639569808804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="telegramBotMaker added first blocks, styles and broken down into components">
+      <created>1639854626867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639854626867</updated>
+    </task>
+    <task id="LOCAL-00003" summary="telegramBotMaker added first blocks, styles and broken down into components">
+      <created>1639854662516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639854662516</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
