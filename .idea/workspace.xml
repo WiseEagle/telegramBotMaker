@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02776b6d-5397-4ed5-aadc-2684191d7824" name="Changes" comment="telegramBotMaker added first blocks, styles and broken down into components" />
+    <list default="true" id="02776b6d-5397-4ed5-aadc-2684191d7824" name="Changes" comment="telegramBotMaker added first blocks, styles and broken down into components">
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timemanagement/Day/Day.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timemanagement/Day/Day.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timemanagement/Day/Tasks/Task/Task.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timemanagement/Day/Tasks/Task/Task.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timemanagement/Timemanagement.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Questions.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Timemanagement/Timemanagement.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +46,36 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itkamalessons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Timemanagement/Day" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WiseEagle\study\Webstorm\chatbot_gui\src\components\Timemanagement\Day" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WiseEagle\study\Webstorm\chatbot_gui\src\components\Questions" />
+      <recent name="E:\WiseEagle\study\Webstorm\chatbot_gui\src\components\Navbar" />
+      <recent name="E:\WiseEagle\study\Webstorm\chatbot_gui\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,7 +87,9 @@
       <updated>1639569546940</updated>
       <workItem from="1639569548493" duration="9852000" />
       <workItem from="1639763220661" duration="897000" />
-      <workItem from="1639850856036" duration="3533000" />
+      <workItem from="1639850856036" duration="4195000" />
+      <workItem from="1640263783354" duration="4752000" />
+      <workItem from="1640520351137" duration="7209000" />
     </task>
     <task id="LOCAL-00001" summary="telegramBotMaker start">
       <created>1639569808804</created>
@@ -67,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639854662516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="telegramBotMaker added first blocks, styles and broken down into components">
+      <created>1639855026566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639855026566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
